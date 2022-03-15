@@ -1,4 +1,4 @@
-### Reddit | [Github](https://github.com/Moh-Bakr/Rivian/) | [Website](http://riviann.herokuapp.com/login)
+### Reddit | [Github](https://github.com/Moh-Bakr/Rivian/) | [Website](https://riviann.herokuapp.com/)
 
 Social media and discussion website, Users can create posts ,Communities, Posts belong to
 community and have comments, The website have authentication and up/down voting
